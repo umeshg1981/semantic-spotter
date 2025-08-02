@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# API Keys & Environment files
+OpenAI_API_Key.txt
+.env
+
+# Chroma DB
+chroma_persist/
