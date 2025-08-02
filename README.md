@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Semantic Spotter Project Submission
 
 ## 1. Background
@@ -124,3 +125,7 @@ The LangChain framework revolves around the following building blocks:
 - Open
   the [notebook] semantic-spotter-umesh.ipynb
   in jupyter and run all cells.
+=======
+# semantic-spotter
+semantic spotter upgrad is health insurance pdfs based chat project using Langchain RAG approach
+>>>>>>> 3cd98d82fb393058953412749e37409e97535ed3
